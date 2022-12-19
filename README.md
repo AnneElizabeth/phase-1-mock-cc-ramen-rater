@@ -4,7 +4,7 @@
 
 - Access information from an API using a GET request and use it to update the
   DOM
-- Listen for user events and update the DOM in response
+- Listen for user events and update the DOM in response 
 
 ## Introduction
 
